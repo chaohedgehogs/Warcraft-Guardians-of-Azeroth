@@ -626,3 +626,543 @@ remedy_of_arugal = {
 		remedy_of_arugal = { value = 1 }
     }
 }
+fenrus_the_devourer = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			AND = { 
+				character = 46055 # Arugal
+				has_landed_title = c_shadowfang 
+				}
+		}
+	}
+    artifacts = {
+		fenrus_the_devourer = { value = 1 }
+    }
+}
+hillsbrad_proclamation = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 53051		# Magistrate Burnside
+		}
+		additive_modifier = {
+			value = 100
+			c_53051 = { is_alive = no }		# 53051
+			has_landed_title = c_hillsbrad
+		}
+	}
+    artifacts = {
+		hillsbrad_proclamation = { value = 1 }
+    }
+}
+hillsbrad_town_registry = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 53051		# Magistrate Burnside
+		}
+		additive_modifier = {
+			value = 100
+			c_53051 = { is_alive = no }		# 53051
+			has_landed_title = c_hillsbrad
+		}
+	}
+    artifacts = {
+		hillsbrad_town_registry = { value = 1 }
+    }
+}
+silverlaine_family_seal = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 46010		# Baron Silverlaine
+		}
+		additive_modifier = {
+			value = 100
+			c_46010 = { is_alive = no }		# 46010
+			has_landed_title = c_shadowfang
+		}
+	}
+    artifacts = {
+		silverlaine_family_seal = { value = 1 }
+    }
+}
+barons_scepter = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 46010		# Baron Silverlaine
+		}
+		additive_modifier = {
+			value = 100
+			c_46010 = { is_alive = no }		# 46010
+			has_landed_title = c_shadowfang
+		}
+	}
+    artifacts = {
+		barons_scepter = { value = 1 }
+    }
+}
+baron_silverlaines_greaves = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 46010		# Baron Silverlaine
+		}
+		additive_modifier = {
+			value = 100
+			c_46010 = { is_alive = no }		# 46010
+			has_landed_title = c_shadowfang
+		}
+	}
+    artifacts = {
+		baron_silverlaines_greaves = { value = 1 }
+    }
+}
+boots_of_lingering_sorrow = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 46010		# Baron Silverlaine
+		}
+		additive_modifier = {
+			value = 100
+			c_46010 = { is_alive = no }		# 46010
+			has_landed_title = c_shadowfang
+		}
+	}
+    artifacts = {
+		boots_of_lingering_sorrow = { value = 1 }
+    }
+}
+gloves_of_the_uplifted_cup = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 46010		# Baron Silverlaine
+		}
+		additive_modifier = {
+			value = 100
+			c_46010 = { is_alive = no }		# 46010
+			has_landed_title = c_shadowfang
+		}
+	}
+    artifacts = {
+		gloves_of_the_uplifted_cup = { value = 1 }
+    }
+}
+baroness_silverlaines_locket = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 46010		# Baron Silverlaine
+		}
+		additive_modifier = {
+			value = 100
+			c_46010 = { is_alive = no }		# 46010
+			has_landed_title = c_shadowfang
+		}
+	}
+    artifacts = {
+		baroness_silverlaines_locket = { value = 1 }
+    }
+}
+pendant_of_the_keep = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 46010		# Baron Silverlaine
+		}
+		additive_modifier = {
+			value = 100
+			c_46010 = { is_alive = no }		# 46010
+			has_landed_title = c_shadowfang
+		}
+	}
+    artifacts = {
+		pendant_of_the_keep = { value = 1 }
+    }
+}
+archus_greatstaff_of_antonidas = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 59000		# Antonidas
+		}
+		additive_modifier = {
+			value = 100
+			c_59000 = { is_alive = no }		# 59000
+			character = 60003		# Arthas
+		}
+		additive_modifier = {
+			value = 100
+			c_60003 = { is_alive = no }		# 60003
+			has_landed_title = c_icecrown
+		}
+	}
+    artifacts = {
+		archus_greatstaff_of_antonidas = { value = 1 }
+    }
+}
+felomelorn = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 42002		# Anasterian Sunstrider
+		}
+	}
+    artifacts = {
+		felomelorn = { value = 1 }
+    }
+}
+felomelorn_reforged = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			c_42002 = { is_alive = no }		# 42002		Anasterian Sunstrider
+			character = 42003		# Kael'thas Sunstrider
+		}
+	}
+    artifacts = {
+		felomelorn_reforged = { value = 1 }
+    }
+}
+jaina_staff = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 48081		#Jaina Proudmore
+		}
+	}
+    artifacts = {
+		jaina_staff = { value = 1 }
+    }
+}
+jaina_radiance = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 48081		#Jaina Proudmore
+		}
+	}
+    artifacts = {
+		jaina_radiance = { value = 1 }
+    }
+}
+jaina_locket = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 60003				# Arthas
+		}
+		additive_modifier = {
+			value = 100
+			c_60003 = { is_alive = no }		# 60003
+			character = 48081				#Jaina Proudmore
+		}
+	}
+    artifacts = {
+		jaina_locket = { value = 1 }
+    }
+}
+jaina_firestarter = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 48081				#Jaina Proudmore
+		}
+	}
+    artifacts = {
+		jaina_firestarter = { value = 1 }
+    }
+}
+jaina_signet_ring = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 48081				#Jaina Proudmore
+		}
+	}
+    artifacts = {
+		jaina_signet_ring = { value = 1 }
+    }
+}
+paladin_warhorse = {
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			is_paladin_class_trigger = yes
+			NOT = {
+				OR = {
+				trait = class_paladin_6
+				trait = class_paladin_7
+				trait = class_paladin_8
+				trait = class_paladin_9
+				trait = class_paladin_10
+				}
+			}
+		}
+	}
+    artifacts = {
+		paladin_warhorse = { value = 1 }
+    }
+}
+paladin_charger = {
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			is_paladin_class_trigger = yes
+			NOT = {
+				OR = {
+				trait = class_paladin_1
+				trait = class_paladin_2
+				trait = class_paladin_3
+				trait = class_paladin_4
+				trait = class_paladin_5
+				}
+			}
+		}
+	}
+    artifacts = {
+		paladin_charger = { value = 1 }
+    }
+}
