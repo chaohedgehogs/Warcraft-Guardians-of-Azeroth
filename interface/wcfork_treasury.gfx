@@ -62,6 +62,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_inv_jewelry_ring_05_small"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_jewelry_ring_05_small.dds"
+	}
 	spriteType = {
 		name = "GFX_inv_misc_book_08"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_08_small.dds"
