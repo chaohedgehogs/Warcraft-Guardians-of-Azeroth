@@ -1,5 +1,53 @@
 spriteTypes = {
 	spriteType = {
+		name = "GFX_inv_belt_10"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_10_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_belt_10_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_10_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_belt_29"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_29_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_belt_29_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_29_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_boots_robe_dungeonrobe_c_03"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_robe_dungeonrobe_c_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_boots_robe_dungeonrobe_c_03_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_robe_dungeonrobe_c_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_boots_plate_dungeonplate_c_03"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_plate_dungeonplate_c_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_boots_plate_dungeonplate_c_03_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_plate_dungeonplate_c_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_chest_cloth_31"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_chest_cloth_31_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_chest_cloth_31_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_chest_cloth_31_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_gauntlets_25"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_gauntlets_25_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_gauntlets_25_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_gauntlets_25_small.dds"
+	}
+	spriteType = {
 		name = "GFX_inv_jewelry_necklace_21"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_jewelry_necklace_21_small.dds"
 	}
@@ -14,15 +62,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_inv_jewelry_ring_05_small"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_jewelry_ring_05_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_gauntlets_25"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_gauntlets_25_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_gauntlets_25_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_gauntlets_25_small.dds"
-	}
 	spriteType = {
 		name = "GFX_inv_misc_book_08"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_08_small.dds"
@@ -56,77 +95,6 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_mace_02_small.dds"
 	}
 	spriteType = {
-		name = "GFX_inv_staff_108"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_staff_108_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_staff_108_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_staff_108_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_sword_1h_artifactfelomelorn_d_01"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_sword_1h_artifactfelomelorn_d_01_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_sword_1h_artifactfelomelorn_d_01_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_sword_1h_artifactfelomelorn_d_01_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_chest_cloth_31"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_chest_cloth_31_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_chest_cloth_31_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_chest_cloth_31_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_belt_10"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_10_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_belt_10_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_10_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_belt_29"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_29_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_belt_29_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_belt_29_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_boots_robe_dungeonrobe_c_03"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_robe_dungeonrobe_c_03_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_boots_robe_dungeonrobe_c_03_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_robe_dungeonrobe_c_03_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_boots_plate_dungeonplate_c_03"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_plate_dungeonplate_c_03_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_boots_plate_dungeonplate_c_03_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_boots_plate_dungeonplate_c_03_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_wand_09"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_wand_09_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_wand_09_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_wand_09_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_weapon_shortblade_25"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_weapon_shortblade_25_small.dds"
-	}
-	spriteType = {
-		name = "GFX_inv_weapon_shortblade_25_small"
-		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_weapon_shortblade_25_small.dds"
-	}spriteType = {
 		name = "GFX_inv_scroll_01"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_scroll_01_small.dds"
 	}
@@ -253,6 +221,38 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_inv_scroll_16_small"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_scroll_15_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_staff_108"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_staff_108_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_staff_108_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_staff_108_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_sword_1h_artifactfelomelorn_d_01"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_sword_1h_artifactfelomelorn_d_01_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_sword_1h_artifactfelomelorn_d_01_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_sword_1h_artifactfelomelorn_d_01_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_wand_09"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_wand_09_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_wand_09_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_wand_09_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_weapon_shortblade_25"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_weapon_shortblade_25_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_weapon_shortblade_25_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_weapon_shortblade_25_small.dds"
 	}
 	spriteType = {
 		name = "GFX_jaina_radiance"

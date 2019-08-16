@@ -3008,56 +3008,6 @@ pet;Pet;Apprivoiser;Haustier;;;;;;;;;;;x
 EVTOPTAHF23209;I will offer them up in the name of [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
 LIGHT;Light;;;;;;;;;;;;;x
 GetLightType_the_Moonlight;the Moonlight;;;;;;;;;;;;;x
-hillsbrad_proclamation;Hillsbrad Proclamation;;;;;;;;;;;;;x
-hillsbrad_proclamation_desc;"We the people of Hillsbrad do solemnly swear our faith and devotion to the Alliance maintained by the great monarchs, King Magni Bronzebeard of Ironforge and King Anduin Wrynn of Stormwind." A political document revered by the human inhabitants of the Hillsbrad Foothills.;;;;;;;;;;;;;x
-hillsbrad_town_registry;Hillsbrad Town Registry;;;;;;;;;;;;;x
-hillsbrad_town_registry_desc;"We the people of Hillsbrad do solemnly swear our faith and devotion to the Alliance maintained by the great monarchs, King Magni Bronzebeard of Ironforge and King Anduin Wrynn of Stormwind. Herein lies the town registry for purposes of governing this fair city in the foothills of the great Alterac Mountains as well as serving as a record of those who have paid their taxes to their Kings and to the great almighty Alliance.";;;;;;;;;;;;;x
-robes_of_arugal;Robes of Arugal;;;;;;;;;;;;;x
-robes_of_arugal_desc;Robes worn by Arugal, former royal archmage of Gilneas and member of the Kirin Tor.;;;;;;;;;;;;;x
-belt_of_arugal;Belt of Arugal;;;;;;;;;;;;;x
-belt_of_arugal_desc;Belt worn by Arugal, former royal archmage of Gilneas and member of the Kirin Tor.;;;;;;;;;;;;;x
-remedy_of_arugal;Remedy of Arugal;;;;;;;;;;;;;x
-remedy_of_arugal_desc;"How Arugal gained acceptance within the Kirin Tor is beyond me. His spell-casting knowledge seemed as transparent as a blown glass bauble. Arugal used enchanted items to reinforce his weak magic." Improves Learning at the expense of one's reputation.;;;;;;;;;;;;;x
-meteor_shard;Meteor Shard;;;;;;;;;;;;;x
-meteor_shard_desc;Dagger wielded by Arugal, former royal archmage of Gilneas and member of the Kirin Tor. Melee attacks have a chance to blast the target with Fire magic, making this weapon deceptively powerful.;;;;;;;;;;;;;x
-fenrus_the_devourer;Fenrus the Devourer;;;;;;;;;;;;;x
-fenrus_the_devourer_desc;The pet of Arugal, Archmage of Shadowfang Keep. Will fiercely defend his master from any intruders, and intimidate enemies with a thundering roar.;;;;;;;;;;;;;x
-book_of_ur;The Book of Ur;;;;;;;;;;;;;x
-book_of_ur_desc;Written by Ur of Dalaran, this book contains a detailed account on the origins of the Worgen. "It is my hope that no Dalaran wizard seeks out the Worgen, even if done in light conscience. For no pact may be struck, no secrets may be learned, no good can come from these beasts. They are best left to their world. For if found in ours and not destroyed, our peril will be dire..." ;;;;;;;;;;;;;x
-silverlaine_family_seal;Silverlaine's Family Seal;;;;;;;;;;;;;x
-silverlaine_family_seal_desc;The family seal of Baron Silverlaine, master of Shadowfang Keep.;;;;;;;;;;;;;x
-barons_scepter;Baron's Scepter;;;;;;;;;;;;;x
-barons_scepter_desc;The scepter of Baron Silverlaine, master of Shadowfang Keep.;;;;;;;;;;;;;x
-baron_silverlaines_greaves;Baron Silverlaine's Greaves;;;;;;;;;;;;;x
-baron_silverlaines_greaves_desc;The plate greaves of Baron Silverlaine, master of Shadowfang Keep.;;;;;;;;;;;;;x
-boots_of_lingering_sorrow;Boots of Lingering Sorrow;;;;;;;;;;;;;x
-boots_of_lingering_sorrow_desc;The boots of Baron Silverlaine, master of Shadowfang Keep.;;;;;;;;;;;;;x
-gloves_of_the_uplifted_cup;Gloves of the Uplifted Cup;;;;;;;;;;;;;x
-gloves_of_the_uplifted_cup_desc;Fine leather gloves worn by Baron Silverlaine, master of Shadowfang Keep.;;;;;;;;;;;;;x
-baroness_silverlaines_locket;Baroness Silverlaine's Locket;;;;;;;;;;;;;x
-baroness_silverlaines_locket_desc;Locket formerly worn by Baroness Silverlaine of Shadowfang Keep.;;;;;;;;;;;;;x
-pendant_of_the_keep;Pendant of the Keep;;;;;;;;;;;;;x
-pendant_of_the_keep_desc;Pendant worn by Baron Silverlaine, master of Shadowfang Keep.;;;;;;;;;;;;;x
-archus_greatstaff_of_antonidas;Archus, Greatstaff of Antonidas;;;;;;;;;;;;;x
-archus_greatstaff_of_antonidas_desc;Staff wielded by Antonidas, leader of the Kirin Tor.;;;;;;;;;;;;;x
-felomelorn;Felo'melorn;;;;;;;;;;;;;x
-felomelorn_desc;"When the fighting was done, Dath'Remar stood painted in demon blood. As night fell, we knew that more battles remained, and yet, with this elf and this blade among us, we held out hope that victory did not lie beyond our grasp.";;;;;;;;;;;;;x
-felomelorn_reforged;Felo'melorn;;;;;;;;;;;;;x
-felomelorn_reforged_desc;"...not elven weapons. Not when they are reforged with magic, and hatred, and a burning need for revenge. No, Arthas. Felo'melorn is stronger than ever. As am I. - Kael'thas Sunstrider";;;;;;;;;;;;;x
-jaina_firestarter;Jaina's Firestarter;;;;;;;;;;;;;x
-jaina_firestarter_desc;A wand owned by Jaina Proudmore.;;;;;;;;;;;;;x
-jaina_locket;Jaina's Locket;;;;;;;;;;;;;x
-jaina_locket_desc;"The locket opens to reveal an engraved image of Jaina Proudmoore.";;;;;;;;;;;;;x
-jaina_radiance;Jaina's Radiance;;;;;;;;;;;;;x
-jaina_radiance_desc;A blue cloak worn by Jaina Proudmore. Adorned with a golden anchor, the emblem of her native homeland Kul'Tiras.;;;;;;;;;;;;;x
-jaina_signet_ring;Jaina's Signet Ring;;;;;;;;;;;;;x
-jaina_signet_ring_desc;A ring worn by Jaina Proudmore. Bears an Alliance seal.;;;;;;;;;;;;;x
-jaina_staff;Jaina's Staff;;;;;;;;;;;;;x
-jaina_staff_desc;Staff wielded by Jaina Proudmore.;;;;;;;;;;;;;x
-paladin_charger;Paladin Charger;;;;;;;;;;;;;x
-paladin_charger_desc;A charger with blue livery and gold-plated armor. It exudes a golden aura.;;;;;;;;;;;;;x
-paladin_warhorse;Paladin Warhorse;;;;;;;;;;;;;x
-paladin_warhorse_desc;This warhorse is white and has a blue and silver livery.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
