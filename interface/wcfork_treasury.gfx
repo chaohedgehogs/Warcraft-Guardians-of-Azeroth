@@ -64,12 +64,148 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_jewelry_ring_05_small.dds"
 	}
 	spriteType = {
+		name = "GFX_inv_misc_book_01"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_01_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_01_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_01_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_02"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_02_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_02_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_02_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_03"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_03_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_04"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_04_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_04_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_04_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_05"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_05_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_05_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_05_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_06"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_06_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_06_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_06_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_07"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_07_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_07_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_07_small.dds"
+	}
+	spriteType = {
 		name = "GFX_inv_misc_book_08"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_08_small.dds"
 	}
 	spriteType = {
 		name = "GFX_inv_misc_book_08_small"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_08_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_09"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_09_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_09_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_09_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_10"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_10_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_10_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_10_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_11"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_11_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_11_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_11_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_12"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_12_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_12_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_12_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_13"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_13_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_13_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_13_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_14"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_14_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_14_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_14_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_15"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_15_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_15_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_15_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_16"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_16_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_16_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_16_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_17"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_17_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_17_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_17_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_18"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_18_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_book_18_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_18_small.dds"
 	}
 	spriteType = {
 		name = "GFX_inv_misc_necklacea10"
