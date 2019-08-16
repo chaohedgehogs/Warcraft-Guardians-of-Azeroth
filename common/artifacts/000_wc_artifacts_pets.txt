@@ -1,0 +1,22 @@
+# Pets
+fenrus_the_devourer = {
+	quality = 1
+	flags = { pet }
+
+	active = {
+		OR = { 
+			is_shaman_class_trigger = yes
+			has_artifact = book_of_ur
+		}
+	}
+
+	stacking = no
+
+	martial = 2
+	combat_rating = 10
+	light_group_opinion = -15
+
+	picture = "GFX_fenrus_the_devourer"
+
+	slot = pet
+}

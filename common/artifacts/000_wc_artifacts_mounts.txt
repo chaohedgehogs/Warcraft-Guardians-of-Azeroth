@@ -1,0 +1,41 @@
+### Mounts ###
+
+# Epic
+paladin_charger = {
+	quality = 4
+	flags = { mount }
+
+	active = { 
+		is_paladin_class_trigger = yes 
+	}
+
+	stacking = no
+
+	command_modifier = {
+		speed = 0.1
+	}
+
+	picture = "GFX_mount_charger"
+
+	slot = mount
+}
+
+# Rare
+paladin_warhorse = {
+	quality = 3
+	flags = { mount }
+
+	active = { 
+		is_paladin_class_trigger = yes 
+	}
+
+	stacking = no
+
+	command_modifier = {
+		speed = 0.06
+	}
+
+	picture = "GFX_mount_warhorse"
+
+	slot = mount
+}
