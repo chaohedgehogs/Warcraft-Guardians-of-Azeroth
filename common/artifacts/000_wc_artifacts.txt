@@ -1324,6 +1324,22 @@ remedy_of_arugal = {
 	picture = "GFX_inv_scroll_02"
 	slot = library
 }
+stresses_of_iron = {
+	quality = 1
+	flags = { misc book }
+
+	active = {
+		is_adult = yes
+	}
+
+	stacking = no
+
+	martial = 1
+	learning = 1
+
+	picture = "GFX_inv_misc_book_09"
+	slot = library
+}
 
 # Specials
 libram_of_protection = {

@@ -708,6 +708,33 @@ hillsbrad_town_registry = {
 		hillsbrad_town_registry = { value = 1 }
     }
 }
+stresses_of_iron = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 50
+			has_landed_title = c_stormwind
+		}
+		additive_modifier = {
+			value = 50
+			has_landed_title = c_northshire
+		}
+	}
+    artifacts = {
+		stresses_of_iron = { value = 1 }
+    }
+}
 silverlaine_family_seal = {
 	max_amount = 1
     spawn_date = -1.1.1
