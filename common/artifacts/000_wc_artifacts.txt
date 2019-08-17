@@ -1827,3 +1827,24 @@ fenrus_the_devourer = {
 
 	slot = pet
 }
+singe = {
+	quality = 1
+	flags = { pet }
+
+	active = {
+		OR = { 
+			religion = orcish_fel
+			culture = blackrock
+			culture = black_dragon
+		}
+	}
+
+	stacking = no
+
+	martial = 2
+	combat_rating = 10
+
+	picture = "GFX_singe"
+
+	slot = pet
+}

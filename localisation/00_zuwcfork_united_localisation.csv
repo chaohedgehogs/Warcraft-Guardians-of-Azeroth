@@ -15,6 +15,8 @@ meteor_shard;Meteor Shard;;;;;;;;;;;;;x
 meteor_shard_desc;Dagger wielded by Arugal, former royal archmage of Gilneas and member of the Kirin Tor. Melee attacks have a chance to blast the target with Fire magic, making this weapon deceptively powerful.;;;;;;;;;;;;;x
 fenrus_the_devourer;Fenrus the Devourer;;;;;;;;;;;;;x
 fenrus_the_devourer_desc;The pet of Arugal, Archmage of Shadowfang Keep. Will fiercely defend his master from any intruders, and intimidate enemies with a thundering roar.;;;;;;;;;;;;;x
+singe;Singe;;;;;;;;;;;;;x
+singe_desc;A black dragon welp. Likely a reward from Nefarius of the black dragonflight to the Blackrock clan of Orcs, in recognition of their successful capture of Stonewatch Keep in the Redridge Mountains.;;;;;;;;;;;;;x
 book_of_ur;The Book of Ur;;;;;;;;;;;;;x
 book_of_ur_desc;Written by Ur of Dalaran, this book contains a detailed account on the origins of the Worgen. "It is my hope that no Dalaran wizard seeks out the Worgen, even if done in light conscience. For no pact may be struck, no secrets may be learned, no good can come from these beasts. They are best left to their world. For if found in ours and not destroyed, our peril will be dire..." ;;;;;;;;;;;;;x
 silverlaine_family_seal;Silverlaine's Family Seal;;;;;;;;;;;;;x
@@ -31,8 +33,8 @@ baroness_silverlaines_locket;Baroness Silverlaine's Locket;;;;;;;;;;;;;x
 baroness_silverlaines_locket_desc;Locket formerly worn by Baroness Silverlaine of Shadowfang Keep.;;;;;;;;;;;;;x
 pendant_of_the_keep;Pendant of the Keep;;;;;;;;;;;;;x
 pendant_of_the_keep_desc;Pendant worn by Baron Silverlaine, master of Shadowfang Keep.;;;;;;;;;;;;;x
-archus_greatstaff_of_antonidas;Archus, Greatstaff of Antonidas;;;;;;;;;;;;;x
-archus_greatstaff_of_antonidas_desc;Staff wielded by Antonidas, leader of the Kirin Tor.;;;;;;;;;;;;;x
+archus_greatstaff_of_antonidas;Archus;;;;;;;;;;;;;x
+archus_greatstaff_of_antonidas_desc;The greatstaff wielded by Antonidas, leader of the Kirin Tor.;;;;;;;;;;;;;x
 felomelorn;Felo'melorn;;;;;;;;;;;;;x
 felomelorn_desc;"When the fighting was done, Dath'Remar stood painted in demon blood. As night fell, we knew that more battles remained, and yet, with this elf and this blade among us, we held out hope that victory did not lie beyond our grasp.";;;;;;;;;;;;;x
 felomelorn_reforged;Felo'melorn;;;;;;;;;;;;;x

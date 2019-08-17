@@ -652,6 +652,32 @@ fenrus_the_devourer = {
 		fenrus_the_devourer = { value = 1 }
     }
 }
+singe = {
+	max_amount = 1
+    spawn_date = 590.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			AND = { 
+				has_landed_title = c_alther 
+				culture = blackrock
+				}
+		}
+	}
+    artifacts = {
+		singe = { value = 1 }
+    }
+}
 hillsbrad_proclamation = {
 	max_amount = 1
     spawn_date = -1.1.1
