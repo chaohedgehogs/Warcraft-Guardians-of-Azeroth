@@ -555,6 +555,22 @@ runeblade_unholy_2 = {
 	picture = "GFX_runeblade_unholy"
 	slot = weapon
 }
+brackclaw = {
+	quality = 2		# 2
+	flags = { combat_weapon polearm }
+	
+	active = {
+		is_adult = yes
+	}
+
+	stacking = no
+
+	combat_rating = 10
+
+	picture = "GFX_inv_weapon_shortblade_15"
+
+	slot = weapon
+}
 
 # Common
 
@@ -1201,6 +1217,25 @@ book_of_ur = {
 }
 
 # Rare
+mrgrglhjorn = {
+	quality = 3		# 3
+	flags = { misc horn }
+	
+	active = {
+		is_adult = yes
+		OR = { 
+			religion = water_deities 
+			trait = creature_murloc
+		}
+	}
+
+	stacking = no
+
+	#murloc_opinion = 10 #not working for some reason
+	combat_rating = 2 
+
+	picture = "GFX_inv_misc_horn_01"
+}
 prosthetic_blade_hand = {
 	quality = 3
 

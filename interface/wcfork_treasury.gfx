@@ -208,6 +208,46 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_book_18_small.dds"
 	}
 	spriteType = {
+		name = "GFX_inv_misc_horn_01"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_01_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_01_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_01_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_02"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_02_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_02_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_02_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_03"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_03_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_03_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_04"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_04_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_04_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_04_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_05"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_05_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_misc_horn_05_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_horn_05_small.dds"
+	}
+	spriteType = {
 		name = "GFX_inv_misc_necklacea10"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_misc_necklacea10_small.dds"
 	}
@@ -382,6 +422,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_inv_wand_09_small"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_wand_09_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_weapon_shortblade_15"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_weapon_shortblade_15_small.dds"
+	}
+	spriteType = {
+		name = "GFX_inv_weapon_shortblade_15_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\inv_weapon_shortblade_15_small.dds"
 	}
 	spriteType = {
 		name = "GFX_inv_weapon_shortblade_25"
