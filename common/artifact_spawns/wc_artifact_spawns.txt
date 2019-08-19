@@ -800,7 +800,7 @@ ancient_dragonforged_blades = {
 		value = 0
 		additive_modifier = {
 			value = 100
-			character = 62401		#Korialstrasz/Krassus
+			character = 62401		# Korialstrasz/Krassus
 		}
 		additive_modifier = {
 			value = 100
@@ -1104,7 +1104,7 @@ jaina_staff = {
 		value = 0
 		additive_modifier = {
 			value = 100
-			character = 48081		#Jaina Proudmore
+			character = 48081		# Jaina Proudmore
 		}
 	}
     artifacts = {
@@ -1127,7 +1127,7 @@ jaina_radiance = {
 		value = 0
 		additive_modifier = {
 			value = 100
-			character = 48081		#Jaina Proudmore
+			character = 48081		# Jaina Proudmore
 		}
 	}
     artifacts = {
@@ -1155,7 +1155,7 @@ jaina_locket = {
 		additive_modifier = {
 			value = 100
 			c_60003 = { is_alive = no }		# 60003
-			character = 48081				#Jaina Proudmore
+			character = 48081				# Jaina Proudmore
 		}
 	}
     artifacts = {
@@ -1178,7 +1178,7 @@ jaina_firestarter = {
 		value = 0
 		additive_modifier = {
 			value = 100
-			character = 48081	#Jaina Proudmore
+			character = 48081	# Jaina Proudmore
 		}
 	}
     artifacts = {
@@ -1201,7 +1201,7 @@ jaina_signet_ring = {
 		value = 0
 		additive_modifier = {
 			value = 100
-			character = 48081	#Jaina Proudmore
+			character = 48081	# Jaina Proudmore
 		}
 	}
     artifacts = {
@@ -1224,11 +1224,39 @@ mrgrglhjorn = {
 		value = 0
 		additive_modifier = {
 			value = 100
-			character = 34001	#Old Murk-Eye
+			character = 34001	# Old Murk-Eye
 		}
 	}
     artifacts = {
 		mrgrglhjorn = { value = 1 }
+    }
+}
+skull_of_tyranastrasz = {
+	max_amount = 1
+    spawn_date = 593.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 17028 	# Brann Bronzebeard
+		}
+		additive_modifier = {
+			value = 100 
+			c_17028 = { is_alive = no } # 17028
+			has_landed_title = c_ironforge
+		}
+	}
+    artifacts = {
+		skull_of_tyranastrasz = { value = 1 }
     }
 }
 paladin_warhorse = {
