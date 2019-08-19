@@ -1,0 +1,178 @@
+### Library ###
+
+# Legendary
+
+book_of_medivh = {
+	quality = 5
+	flags = { misc book powerful_magical_artifact }
+
+	active = {
+		is_adult = yes
+
+		learning = 15
+	}
+
+	stacking = no
+	indestructible = yes
+
+	learning = 7
+	combat_rating = 5
+
+	monthly_character_prestige = 2
+
+	text_effect_powerful_magical_artifact = 1
+
+	picture = "GFX_book_of_medivh"
+	slot = library
+}
+twilight_canticle = {
+	quality = 5								# +30
+	flags = { misc book powerful_magical_artifact void_artifact }
+
+	active = {
+		is_adult = yes
+
+		religion = old_gods_worship
+	}
+
+	stacking = no
+	indestructible = yes
+
+	intrigue = 3
+	learning = 2
+
+	monthly_character_prestige = 1
+	monthly_character_piety = 1.5
+
+	general_opinion	= -10
+	void_group_opinion = 20
+
+	text_effect_powerful_magical_artifact = 1
+
+	picture = "GFX_inv_misc_book_16"
+	slot = library
+}
+
+# Epic
+
+book_of_ur = {
+	quality = 4
+	flags = { misc book epic }
+
+	active = {
+		learning = 10
+	}
+
+	stacking = no
+
+	learning = 5
+	combat_rating = 5
+
+	monthly_character_prestige = 1
+
+	picture = "GFX_inv_misc_book_08"
+	slot = library
+}
+ur_treatise_on_shadow_magic = {
+	quality = 4
+	flags = { misc book epic }
+
+	active = { 
+		learning = 10 
+		OR = { 
+			trait = class_shadow_priest_5 
+			trait = class_shadow_priest_6 
+			trait = class_shadow_priest_7 
+			trait = class_shadow_priest_8 
+			trait = class_shadow_priest_9 
+			trait = class_shadow_priest_10 
+		}
+	}
+
+	stacking = no
+
+	learning = 4
+	combat_rating = 10
+
+	monthly_character_prestige = 1
+
+	picture = "GFX_inv_misc_book_01"
+	slot = library
+}
+
+#Common
+hillsbrad_proclamation = {
+	quality = 1
+	flags = { misc book }
+
+	active = {
+		is_adult = yes
+		OR = {
+			has_landed_title = c_hillsbrad
+			has_landed_title = d_hillsbrad
+			has_landed_title = k_hillsbrad
+		}
+	}
+
+	stacking = no
+
+	monthly_character_prestige = 0.1
+
+	picture = "GFX_inv_scroll_15"
+	slot = library
+}
+hillsbrad_town_registry = {
+	quality = 1
+	flags = { misc book }
+
+	active = {
+		is_adult = yes
+		OR = {
+			has_landed_title = c_hillsbrad
+			has_landed_title = d_hillsbrad
+			has_landed_title = k_hillsbrad
+		}
+	}
+
+	stacking = no
+
+	stewardship = 2
+
+	monthly_character_prestige = 0.1
+
+	picture = "GFX_inv_misc_book_08"
+	slot = library
+}
+remedy_of_arugal = {
+	quality = 1
+	flags = { misc book }
+
+	active = {
+		is_adult = yes
+	}
+
+	stacking = no
+
+	learning = 2
+
+	monthly_character_prestige = -1
+
+	picture = "GFX_inv_scroll_02"
+	slot = library
+}
+stresses_of_iron = {
+	quality = 1
+	flags = { misc book }
+
+	active = {
+		is_adult = yes
+	}
+
+	stacking = no
+
+	martial = 1
+	learning = 1
+
+	picture = "GFX_inv_misc_book_09"
+	slot = library
+}

@@ -1080,56 +1080,6 @@ eye_of_sargeras = {
 
 	picture = "GFX_inv_eye_of_sargeras"
 }
-book_of_medivh = {
-	quality = 5
-	flags = { misc book powerful_magical_artifact }
-
-	active = {
-		is_adult = yes
-
-		learning = 15
-	}
-
-	stacking = no
-	indestructible = yes
-
-	learning = 7
-	combat_rating = 5
-
-	monthly_character_prestige = 2
-
-	text_effect_powerful_magical_artifact = 1
-
-	picture = "GFX_book_of_medivh"
-	slot = library
-}
-twilight_canticle = {
-	quality = 5								# +30
-	flags = { misc book powerful_magical_artifact void_artifact }
-
-	active = {
-		is_adult = yes
-
-		religion = old_gods_worship
-	}
-
-	stacking = no
-	indestructible = yes
-
-	intrigue = 3
-	learning = 2
-
-	monthly_character_prestige = 1
-	monthly_character_piety = 1.5
-
-	general_opinion	= -10
-	void_group_opinion = 20
-
-	text_effect_powerful_magical_artifact = 1
-
-	picture = "GFX_inv_misc_book_16"
-	slot = library
-}
 skull_of_guldan = {
 	quality = 5
 	flags = { fel_artifact powerful_magical_artifact }
@@ -1197,24 +1147,6 @@ chalice_of_trollbanes = {
 
 	picture = "GFX_inv_misc_trophy_argent"
 }
-book_of_ur = {
-	quality = 4
-	flags = { misc book epic }
-
-	active = {
-		learning = 10
-	}
-
-	stacking = no
-
-	learning = 5
-	combat_rating = 5
-
-	monthly_character_prestige = 1
-
-	picture = "GFX_inv_misc_book_08"
-	slot = library
-}
 
 # Rare
 mrgrglhjorn = {
@@ -1264,81 +1196,6 @@ soul_shard = {
 	#monthly_character_prestige = 0.01
 	#monthly_character_piety = 0.01
 	picture = "GFX_inv_misc_gem_amethyst_02"
-}
-hillsbrad_proclamation = {
-	quality = 1
-	flags = { misc book }
-
-	active = {
-		is_adult = yes
-		OR = {
-			has_landed_title = c_hillsbrad
-			has_landed_title = d_hillsbrad
-			has_landed_title = k_hillsbrad
-		}
-	}
-
-	stacking = no
-
-	monthly_character_prestige = 0.1
-
-	picture = "GFX_inv_scroll_15"
-	slot = library
-}
-hillsbrad_town_registry = {
-	quality = 1
-	flags = { misc book }
-
-	active = {
-		is_adult = yes
-		OR = {
-			has_landed_title = c_hillsbrad
-			has_landed_title = d_hillsbrad
-			has_landed_title = k_hillsbrad
-		}
-	}
-
-	stacking = no
-
-	stewardship = 2
-
-	monthly_character_prestige = 0.1
-
-	picture = "GFX_inv_misc_book_08"
-	slot = library
-}
-remedy_of_arugal = {
-	quality = 1
-	flags = { misc book }
-
-	active = {
-		is_adult = yes
-	}
-
-	stacking = no
-
-	learning = 2
-
-	monthly_character_prestige = -1
-
-	picture = "GFX_inv_scroll_02"
-	slot = library
-}
-stresses_of_iron = {
-	quality = 1
-	flags = { misc book }
-
-	active = {
-		is_adult = yes
-	}
-
-	stacking = no
-
-	martial = 1
-	learning = 1
-
-	picture = "GFX_inv_misc_book_09"
-	slot = library
 }
 
 # Specials
@@ -1765,86 +1622,4 @@ ancient_kernel = {
 	stacking = yes
 
 	picture = "GFX_ancient_kernel"
-}
-
-# Mounts
-paladin_charger = {
-	quality = 4
-	flags = { mount }
-
-	active = { 
-		is_paladin_class_trigger = yes 
-	}
-
-	stacking = no
-
-	command_modifier = {
-		speed = 0.1
-	}
-
-	picture = "GFX_mount_charger"
-
-	slot = mount
-}
-paladin_warhorse = {
-	quality = 3
-	flags = { mount }
-
-	active = { 
-		is_paladin_class_trigger = yes 
-	}
-
-	stacking = no
-
-	command_modifier = {
-		speed = 0.06
-	}
-
-	picture = "GFX_mount_warhorse"
-
-	slot = mount
-}
-
-# Pets
-fenrus_the_devourer = {
-	quality = 1
-	flags = { pet }
-
-	active = {
-		OR = { 
-			is_shaman_class_trigger = yes
-			has_artifact = book_of_ur
-		}
-	}
-
-	stacking = no
-
-	martial = 2
-	combat_rating = 10
-	light_group_opinion = -15
-
-	picture = "GFX_fenrus_the_devourer"
-
-	slot = pet
-}
-singe = {
-	quality = 1
-	flags = { pet }
-
-	active = {
-		OR = { 
-			religion = orcish_fel
-			culture = blackrock
-			culture = black_dragon
-		}
-	}
-
-	stacking = no
-
-	martial = 2
-	combat_rating = 10
-
-	picture = "GFX_singe"
-
-	slot = pet
 }

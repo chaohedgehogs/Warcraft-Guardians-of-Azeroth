@@ -5,6 +5,8 @@ hillsbrad_town_registry;Hillsbrad Town Registry;;;;;;;;;;;;;x
 hillsbrad_town_registry_desc;"We the people of Hillsbrad do solemnly swear our faith and devotion to the Alliance maintained by the great monarchs, King Magni Bronzebeard of Ironforge and King Anduin Wrynn of Stormwind. Herein lies the town registry for purposes of governing this fair city in the foothills of the great Alterac Mountains as well as serving as a record of those who have paid their taxes to their Kings and to the great almighty Alliance.";;;;;;;;;;;;;x
 stresses_of_iron;Stresses of Iron;;;;;;;;;;;;;x
 stresses_of_iron_desc;"Written by the Dwarven miner Margulf Blaggon a few decades ago. He spent most his time deep in the mountains of Khaz Modan, digging ore. Smart fellow!" - Milton Sheaf, Stormwind Royal Library. A highly regarded book about metallurgy.;;;;;;;;;;;;;x
+ur_treatise_on_shadow_magic;Ur's Treatise on Shadow Magic;;;;;;;;;;;;;x
+ur_treatise_on_shadow_magic_desc;Written by Ur of Dalaran. The swirling symbols and pictograms that fill the pages of this manual are esoteric beyond comprehension. "Its secrets are not meant for the untrained, and plumbing its depths can lead to doom and ruin." - High Sorcerer Andromath;;;;;;;;;;;;;x
 robes_of_arugal;Robes of Arugal;;;;;;;;;;;;;x
 robes_of_arugal_desc;Robes worn by Arugal, former royal archmage of Gilneas and member of the Kirin Tor.;;;;;;;;;;;;;x
 belt_of_arugal;Belt of Arugal;;;;;;;;;;;;;x
@@ -42,7 +44,7 @@ felomelorn_reforged_desc;"...not elven weapons. Not when they are reforged with 
 jaina_firestarter;Jaina's Firestarter;;;;;;;;;;;;;x
 jaina_firestarter_desc;A wand owned by Jaina Proudmore.;;;;;;;;;;;;;x
 jaina_locket;Jaina's Locket;;;;;;;;;;;;;x
-jaina_locket_desc;"The locket opens to reveal an engraved image of Jaina Proudmoore.";;;;;;;;;;;;;x
+jaina_locket_desc;The locket opens to reveal an engraved image of Jaina Proudmoore.;;;;;;;;;;;;;x
 jaina_radiance;Jaina's Radiance;;;;;;;;;;;;;x
 jaina_radiance_desc;A blue cloak worn by Jaina Proudmore. Adorned with a golden anchor, the emblem of her native homeland Kul'Tiras.;;;;;;;;;;;;;x
 jaina_signet_ring;Jaina's Signet Ring;;;;;;;;;;;;;x
