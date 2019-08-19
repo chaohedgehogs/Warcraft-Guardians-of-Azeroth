@@ -55,6 +55,23 @@ twilight_canticle = {
 
 # Epic
 
+ancient_dragonforged_blades = {
+	quality = 4
+	flags = { misc book epic }
+
+	active = {
+		learning = 10
+	}
+
+	stacking = no
+
+	learning = 2
+
+	monthly_character_prestige = 2
+
+	picture = "GFX_inv_misc_book_07"
+	slot = library
+}
 book_of_ur = {
 	quality = 4
 	flags = { misc book epic }
