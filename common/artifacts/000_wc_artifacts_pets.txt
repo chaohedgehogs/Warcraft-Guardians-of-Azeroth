@@ -1,5 +1,5 @@
 # Pets
-fenrus_the_devourer = {
+pet_fenrus_the_devourer = {
 	quality = 1
 	flags = { pet }
 
@@ -20,7 +20,7 @@ fenrus_the_devourer = {
 
 	slot = pet
 }
-singe = {
+pet_singe = {
 	quality = 1
 	flags = { pet }
 
@@ -38,6 +38,22 @@ singe = {
 	combat_rating = 10
 
 	picture = "GFX_singe"
+
+	slot = pet
+}
+pet_glibb = {
+	quality = 1
+	flags = { pet }
+
+	active = {
+		is_hunter_class_trigger = yes
+	}
+
+	stacking = no
+
+	diplomacy = 2
+
+	picture = "GFX_glibb"
 
 	slot = pet
 }

@@ -626,58 +626,6 @@ remedy_of_arugal = {
 		remedy_of_arugal = { value = 1 }
     }
 }
-fenrus_the_devourer = {
-	max_amount = 1
-    spawn_date = -1.1.1
-	
-	spawn_chance = {
-		value = 100
-		modifier = {
-			factor = 0
-			NOT = { has_dlc = "Mystics" }
-		}
-	}
-    
-    weight = {
-		value = 0
-		additive_modifier = {
-			value = 100
-			AND = { 
-				character = 46055 # Arugal
-				has_landed_title = c_shadowfang 
-				}
-		}
-	}
-    artifacts = {
-		fenrus_the_devourer = { value = 1 }
-    }
-}
-singe = {
-	max_amount = 1
-    spawn_date = 590.1.1
-	
-	spawn_chance = {
-		value = 100
-		modifier = {
-			factor = 0
-			NOT = { has_dlc = "Mystics" }
-		}
-	}
-    
-    weight = {
-		value = 0
-		additive_modifier = {
-			value = 100
-			AND = { 
-				has_landed_title = c_alther 
-				culture = blackrock
-				}
-		}
-	}
-    artifacts = {
-		singe = { value = 1 }
-    }
-}
 hillsbrad_proclamation = {
 	max_amount = 1
     spawn_date = -1.1.1
@@ -1257,6 +1205,81 @@ skull_of_tyranastrasz = {
 	}
     artifacts = {
 		skull_of_tyranastrasz = { value = 1 }
+    }
+}
+pet_fenrus_the_devourer = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			AND = { 
+				character = 46055 # Arugal
+				has_landed_title = c_shadowfang 
+				}
+		}
+	}
+    artifacts = {
+		pet_fenrus_the_devourer = { value = 1 }
+    }
+}
+pet_glibb = {
+	max_amount = 1
+    spawn_date = 600.1.1 #placeholder, "some time before the Third War" Bran went exploring, found in Silithus
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			character = 17028	#Brann Bronzebeard
+		}
+	}
+    artifacts = {
+		pet_glibb = { value = 1 }
+    }
+}
+pet_singe = {
+	max_amount = 1
+    spawn_date = 590.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			AND = { 
+				has_landed_title = c_alther 
+				culture = blackrock
+			}
+		}
+	}
+    artifacts = {
+		pet_singe = { value = 1 }
     }
 }
 paladin_warhorse = {

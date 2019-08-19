@@ -96,14 +96,7 @@ ur_treatise_on_shadow_magic = {
 
 	active = { 
 		learning = 10 
-		OR = { 
-			trait = class_shadow_priest_5 
-			trait = class_shadow_priest_6 
-			trait = class_shadow_priest_7 
-			trait = class_shadow_priest_8 
-			trait = class_shadow_priest_9 
-			trait = class_shadow_priest_10 
-		}
+		is_shadow_priest_class_trigger = yes
 	}
 
 	stacking = no

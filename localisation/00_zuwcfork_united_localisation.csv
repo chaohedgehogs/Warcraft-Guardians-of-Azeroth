@@ -17,10 +17,6 @@ remedy_of_arugal;Remedy of Arugal;;;;;;;;;;;;;x
 remedy_of_arugal_desc;"How Arugal gained acceptance within the Kirin Tor is beyond me. His spell-casting knowledge seemed as transparent as a blown glass bauble. Arugal used enchanted items to reinforce his weak magic." Improves Learning at the expense of one's reputation.;;;;;;;;;;;;;x
 meteor_shard;Meteor Shard;;;;;;;;;;;;;x
 meteor_shard_desc;Dagger wielded by Arugal, former royal archmage of Gilneas and member of the Kirin Tor. Melee attacks have a chance to blast the target with Fire magic, making this weapon deceptively powerful.;;;;;;;;;;;;;x
-fenrus_the_devourer;Fenrus the Devourer;;;;;;;;;;;;;x
-fenrus_the_devourer_desc;The pet of Arugal, Archmage of Shadowfang Keep. Will fiercely defend his master from any intruders, and intimidate enemies with a thundering roar.;;;;;;;;;;;;;x
-singe;Singe;;;;;;;;;;;;;x
-singe_desc;A black dragon welp. Likely a reward from Nefarius of the black dragonflight to the Blackrock clan of Orcs, in recognition of their successful capture of Stonewatch Keep in the Redridge Mountains.;;;;;;;;;;;;;x
 book_of_ur;The Book of Ur;;;;;;;;;;;;;x
 book_of_ur_desc;Written by Ur of Dalaran, this book contains a detailed account on the origins of the Worgen. "It is my hope that no Dalaran wizard seeks out the Worgen, even if done in light conscience. For no pact may be struck, no secrets may be learned, no good can come from these beasts. They are best left to their world. For if found in ours and not destroyed, our peril will be dire..." ;;;;;;;;;;;;;x
 silverlaine_family_seal;Silverlaine's Family Seal;;;;;;;;;;;;;x
@@ -59,6 +55,12 @@ brackclaw;Brackclaw;;;;;;;;;;;;;x
 brackclaw_desc;Trident wielded by Brack, a murloc that patrolled the coastline of Longshore, Westfall.;;;;;;;;;;;;;x
 skull_of_tyranastrasz;Skull of Tyrannistrasz;;;;;;;;;;;;;x
 skull_of_tyranastrasz_desc;"The remains of the gargantuan red dragon were found in the Wetlands shortly after the Battle of Grim Batol. Tyrannistrasz was rumored to have been the elder consort of the Dragonqueen, Alexstrasza." Tyranastrasz died during the Second War, having been killed by Deathwing following a period of captivity with the Dragonmaw clan of Orcs. His skull was recovered by the Explorers' League and placed on display in Ironforge. A prestigious find, although the dragonflight are unlikely to approve of such a trophy.;;;;;;;;;;;;;x
+pet_fenrus_the_devourer;Fenrus the Devourer;;;;;;;;;;;;;x
+pet_fenrus_the_devourer_desc;The pet of Arugal, Archmage of Shadowfang Keep. Will fiercely defend his master from any intruders, and intimidate enemies with a thundering roar.;;;;;;;;;;;;;x
+pet_glibb;Glibb;;;;;;;;;;;;;x
+pet_glibb_desc;"Glibb looks at you curiously. Brann doesn't have the heart to tell him he's not a monkey". The pet gorilla of Brann Bronzebeard, founder of the Explorers' League. A native of Stranglethorn, he has accompanied his master on numerous expeditions, namely the ill-fated trip to Silithus.;;;;;;;;;;;;;x
+pet_singe;Singe;;;;;;;;;;;;;x
+pet_singe_desc;A black dragon welp. Likely a reward from Nefarius of the black dragonflight to the Blackrock clan of Orcs, in recognition of their successful capture of Stonewatch Keep in the Redridge Mountains.;;;;;;;;;;;;;x
 paladin_charger;Paladin Charger;;;;;;;;;;;;;x
 paladin_charger_desc;A charger with blue livery and gold-plated armor. It exudes a golden aura.;;;;;;;;;;;;;x
 paladin_warhorse;Paladin Warhorse;;;;;;;;;;;;;x

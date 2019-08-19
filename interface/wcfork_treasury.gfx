@@ -472,6 +472,14 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\inventory\\artifacts\\pet_fenrus_the_devourer_small.dds"
 	}
 	spriteType = {
+		name = "GFX_glibb"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\pet_glibb_small.dds"
+	}
+	spriteType = {
+		name = "GFX_glibb_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\pet_glibb_small.dds"
+	}
+	spriteType = {
 		name = "GFX_singe"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\pet_singe_small.dds"
 	}
