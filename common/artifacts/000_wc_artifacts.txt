@@ -382,8 +382,8 @@ jaina_staff = {
 		is_adult = yes
 
 		OR = {
-			NOT = { has_class_trait_trigger = yes }
 			is_magic_class_trigger = yes
+			learning = 10
 		}
 	}
 	

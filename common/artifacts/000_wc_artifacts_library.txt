@@ -110,6 +110,28 @@ ur_treatise_on_shadow_magic = {
 	slot = library
 }
 
+#Rare
+arm_of_grilek = {
+	quality = 3
+	flags = { misc book }
+
+	active = { 
+		is_adult = yes
+		learning = 5
+	}
+
+	stacking = no
+
+	learning = 3
+
+	monthly_character_prestige = 0.5
+	
+	cult_of_loa_opinion = 10
+
+	picture = "GFX_inv_misc_book_07"
+	slot = library
+}
+
 #Common
 hillsbrad_proclamation = {
 	quality = 1

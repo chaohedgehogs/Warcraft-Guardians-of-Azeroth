@@ -799,6 +799,29 @@ ur_treatise_on_shadow_magic = {
 		ur_treatise_on_shadow_magic = { value = 1 }
     }
 }
+arm_of_grilek = {
+	max_amount = 1
+    spawn_date = -1.1.1
+	
+	spawn_chance = {
+		value = 100
+		modifier = {
+			factor = 0
+			NOT = { has_dlc = "Mystics" }
+		}
+	}
+    
+    weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			has_landed_title = c_alterac
+		}
+	}
+    artifacts = {
+		arm_of_grilek = { value = 1 }
+    }
+}
 ancient_dragonforged_blades = {
 	max_amount = 1
     spawn_date = -1.1.1
