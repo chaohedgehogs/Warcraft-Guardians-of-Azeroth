@@ -153,6 +153,21 @@ hillsbrad_town_registry = {
 	picture = "GFX_inv_misc_book_08"
 	slot = library
 }
+history_of_stormwind = {
+	quality = 1
+	flags = { misc book }
+
+	active = {
+		is_adult = yes
+	}
+
+	stacking = no
+
+	diplomacy = 1
+
+	picture = "GFX_inv_misc_book_09"
+	slot = library
+}
 remedy_of_arugal = {
 	quality = 1
 	flags = { misc book }
