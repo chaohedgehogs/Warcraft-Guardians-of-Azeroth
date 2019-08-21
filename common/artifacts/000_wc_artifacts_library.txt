@@ -90,6 +90,77 @@ book_of_ur = {
 	picture = "GFX_inv_misc_book_08"
 	slot = library
 }
+emperors_tomb = {
+	quality = 4
+	flags = { misc book tablet epic }
+
+	active = {
+		is_adult = yes
+		culture = gurubashi
+	}
+
+	stacking = no
+
+	monthly_character_prestige = 1
+	monthly_character_piety = 0.5
+
+	picture = "GFX_troll_legend"
+	slot = library
+}
+fall_of_gurubashi = {
+	quality = 4
+	flags = { misc book tablet epic }
+
+	active = {
+		is_adult = yes
+		culture = gurubashi
+	}
+
+	stacking = no
+
+	monthly_character_prestige = 1
+	
+	cult_of_loa_opinion = 15
+
+	picture = "GFX_troll_legend"
+	slot = library
+}
+grillek_the_wanderer = {
+	quality = 4
+	flags = { misc book tablet epic }
+
+	active = {
+		is_adult = yes
+		culture = gurubashi
+	}
+
+	stacking = no
+
+	monthly_character_prestige = 1
+	
+	cult_of_loa_opinion = 15
+
+	picture = "GFX_troll_legend"
+	slot = library
+}
+moon_over_the_vale = {
+	quality = 4
+	flags = { misc book tablet epic }
+
+	active = {
+		is_adult = yes
+		culture = gurubashi
+	}
+
+	stacking = no
+
+	monthly_character_prestige = 1
+	
+	cult_of_loa_opinion = 15
+
+	picture = "GFX_troll_legend"
+	slot = library
+}
 ur_treatise_on_shadow_magic = {
 	quality = 4
 	flags = { misc book epic }

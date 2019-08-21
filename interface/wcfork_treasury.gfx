@@ -456,6 +456,14 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\inventory\\artifacts\\jaina_staff_small.dds"
 	}
 	spriteType = {
+		name = "GFX_troll_legend"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\troll_legend_small.dds"
+	}
+	spriteType = {
+		name = "GFX_troll_legend_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\troll_legend_small.dds"
+	}
+	spriteType = {
 		name = "GFX_tyranastrasz_skull"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\tyranastrasz_skull_small.dds"
 	}
